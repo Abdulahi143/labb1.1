@@ -1,5 +1,4 @@
 ﻿namespace labb1._1;
-
 class Program
 {
     static void Main(string[] args)
@@ -16,24 +15,21 @@ class Program
 
 
         bool openProgram = true; // tilldelas en boolean variabel för att hålla programmmet igång i en loop tills rätt alternativ matas in.
-
         
 
-        while (openProgram == true) // starten på while-loop som forsätter så länge variabeln är true.I den här loopen kommer använderen att få alternativ och vid rätt alternativ avsluts loopen.
+        while (openProgram == true) // Starten på while-loop som forsätter så länge variabeln är true. I den här loopen kommer använderen att få alternativ och vid rätt alternativ avsluts loopen.
         {
                 Console.WriteLine("Vilken flyg vill du se deltejerad information om? Svara med en siffra"); // Denna information skrivs ut till användaren.
                 Console.WriteLine("1. Stockholm - New York"); // Denna alternativ skrivs ut för att välja om den ska ha information om denna flyg.
                 Console.WriteLine("2. New York - Stockholm"); // Denna alternativ skrivs ut för att välja om den ska ha information om denna flyg.
                 Console.WriteLine("3. Avsluta programmet!"); // Denna alternativ skriv ut för användaren att välja om den skulle vilja avsluta programmet.
                 Console.WriteLine("Ange ditt val här: "); // Utskriv för att uppmana användaren att välja 1,2 eller 3.
-                int choice = Convert.ToInt32(Console.ReadLine()); // läser in användarens input som sträng och omvandlar till ett heltal. 
+                int choice = Convert.ToInt32(Console.ReadLine()); // Läser in användarens input som sträng och omvandlar till ett heltal. 
 
                 try
                 {
-
                 if (choice == 1) // kontrollerar om användaren valt alternativ 1 och om choice motsvarar 1 kärs koden inuti blocket.
                 {
-                   
                     landingHour = stockholmHour + flightDurationsHour + timeDifference; // landingHour beräknas... resultatet är den totala ankomsttiden i timmar.
                    
                     landingMinute = stockholmMinute + flightDurationsMinute; // landingMinute beräkas på samma sätt... resultatet är den totala ankomsttiden i minuter.
@@ -69,10 +65,10 @@ class Program
                 openProgram = false;  // här sätts programmet till false som tidigare för att avsluta programmet.
                 }
 
-                else if (choice != 1 && choice != 2 && choice != 3) // är en villkorkontroll och hanterar ogiltiga val från användaren. Denna kod körs bara om choice inte är motsvarar 1,2 eller 3.
+                else if (choice != 1 && choice != 2 && choice != 3) // Är en villkorkontroll och hanterar ogiltiga val från användaren. Denna kod körs bara om choice inte är motsvarar 1,2 eller 3.
                 {
                     Console.WriteLine("Fel val! Var vänlig och välj alternativen mellan 1, 2 eller 3."); // detta skrivs ut om användaren matar in ogiltigt val, programmet exekverar koden inuti denna block.
-                    openProgram = true; // sedan sätts denna, som gör att programmet forstäter och visar alternativen igen, genom att återuppta loopen.
+                    openProgram = true; // Sedan sätts denna, som gör att programmet forstäter och visar alternativen igen, genom att återuppta loopen.
                 }
                 else
                 {

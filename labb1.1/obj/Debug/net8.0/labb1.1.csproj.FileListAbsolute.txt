@@ -1,0 +1,15 @@
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/bin/Debug/net8.0/labb1.1
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/bin/Debug/net8.0/labb1.1.deps.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/bin/Debug/net8.0/labb1.1.runtimeconfig.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/bin/Debug/net8.0/labb1.1.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/bin/Debug/net8.0/labb1.1.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.AssemblyInfoInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.AssemblyInfo.cs
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.csproj.CoreCompileInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.sourcelink.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/refint/labb1.1.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/labb1.1.genruntimeconfig.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/labb1.1/labb1.1/obj/Debug/net8.0/ref/labb1.1.dll
